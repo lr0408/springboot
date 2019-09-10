@@ -1,7 +1,7 @@
 package com.woniu.springboot.po;
 
 public class School {
-
+	private int id;
 	private String sname;
 	private String address;
 	public School() {

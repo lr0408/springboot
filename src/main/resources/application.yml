@@ -1,0 +1,17 @@
+#student:
+#  id: 1
+#  name: 李四
+# # list: [a,b,c]
+# # map: [a: aaa,b: bbb]
+#  list: 
+#   - a
+#   - b
+#   - c
+#  map: 
+#    a: aaa
+#    b: bbb
+#    c: ccc
+#  school: 
+#    sname: 蜗牛学院
+#    address: 孵化园
+#  
